@@ -1,15 +1,16 @@
 <h1> RPG en Python <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a></h1>
  
-<p>Voici mon tout premier "gros" projet ! Un RPG tour par tour sur console.<br>
-Vous pouvez retrouvez ci-dessous les fonctionnalités disponibles sur le jeu !<p>
+<p>Here is my very first "big" project! A turn-based RPG on console.<br>
+You can find below the features available on the game!<p>
  <hr>
 <h2>Fonctionnalités :</h2>
 <ul>
- <li>Une map 🏞</li>
- <li>Déplacement 🏃🏼‍♂️</li>
- <li>Des combats ⚔ (Mob & Boss)</li>
- <li>Niveau de personnage 🥇</li>
- <li>Loot (Armure & Arme) 🧰</li>
+ <li>A map 🏞</li>
+ <li>Movement on map 🏃🏼‍♂️</li>
+ <li>Fights ⚔ (Mobs & Boss)</li>
+ <li>Character Level 🥇</li>
+ <li>Loot (Armor & Weapons) 🧰</li>
 </ul>
  <hr>
-<p>Ce n'est qu'une V1 qui a été faite en projet scolaire pour <a href="https://hetic.net">HETIC</a> ! Je prendrais le temps d'améliorer et perfectionner certains détails dans le jeu dans de prochain mois ! (Comme l'histoire, l'ajout de nouvelle attaque par rapport au niveau du joueur etc... )</p>
+<p>This is only a V1 that was made for a school project for <a href="https://hetic.net">HETIC</a>! I will take the time to improve and perfect some details in the game in
+the next month! (Like story, adding new attack relative to player level etc...)</p>
