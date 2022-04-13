@@ -1,4 +1,4 @@
-<h1> RPG in Python <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a></h1>
+<h1> RPG Python <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a></h1>
  
 <p>Here is my very first "big" project! A turn-based RPG on console.<br>
 You can find below the features available on the game!<p>
