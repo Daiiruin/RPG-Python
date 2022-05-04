@@ -12,13 +12,6 @@ You can find below the features available on the game!<p>
  <li>Loot (Armor & Weapons) 🧰</li>
 </ul>
  <hr>
-## La team
-|Membre de l'équipe|Rôles|Contribution|Github|
-|--|--|--|--|
-|VIDEAU ETHAN|Github manager|--|[Setsudan](https://github.com/Setsudan)|
-|DOBROVOLSKYY Arsène|Rédacteur en chef|--|[Daiiruin](https://github.com/Daiiruin)|
-|VOJINOVIC Veljko|Bambi|--|[V-eljko](https://github.com/V-eljko)|
----
- <hr>
+
 <p>This is only a V1 that was made for a school project at <a href="https://hetic.net">HETIC</a>! I will take the time to improve and perfect some details in the game in
 the next month! (Like story, adding new attack relative to player level etc...)</p>
