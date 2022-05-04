@@ -12,6 +12,7 @@ You can find below the features available on the game!<p>
  <li>Loot (Armor & Weapons) 🧰</li>
 </ul>
  <hr>
+<p>By Arsène, Ethan, Veljko</p>
 
 <p>This is only a V1 that was made for a school project at <a href="https://hetic.net">HETIC</a>! I will take the time to improve and perfect some details in the game in
 the next month! (Like story, adding new attack relative to player level etc...)</p>
